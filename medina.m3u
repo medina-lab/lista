@@ -1,0 +1,100 @@
+#EXTINF:0 tvg-country="AE" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="Undefined",3eesh Al Aan TV
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News;Undefined",AE | Al Hadath,Al Arabiya Al Hadath,Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Undefined",AE | Dubai Zaman,Dubai Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman&checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="Undefined",AE | Hawas TV,Hawas TV,HAWAS TV (1280×720)
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Undefined",AE | Majid TV,Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="Undefined",AE | Sharqiya from Kalba TV,Sharqiya from Kalba TV
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="Undefined",AL SHARJAH KALBA (1920×1080),Sharqiya from Kalba TV
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="General;Undefined",Abu Dabi Aloula,Abu Dhabi TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="Undefined",Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport",Abu Dhabi Sports,Abu Dhabi Sports 1,Abu Dhabi Sports 1 HD (Opt-1),Abu Dhabi Sports1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sport",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/6WiXPd9.png" group-title="Undefined",Al Aan TV
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News;Undefined",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/Jcr3plu.jpg" group-title="Undefined",Al Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News",Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Undefined",Alsharjah TV (Backup),Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;AE" tvg-logo="" group-title="Undefined",Citruss TV,CITRUSS TV (1280×720),Citruss TV HD
+https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/6lTEvrU.jpg" group-title="Undefined",Citruss TV
+https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies",Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport;Undefined",Dubai Racing,迪拜赛马俱乐部
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE;US" tvg-logo="https://parco-zh.github.io/demo/DIBAI.png" group-title="Sport;Undefined",Dubai Racing,迪拜赛车俱乐部
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing,SPORT : Dubai Racing,SPORT | Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Undefined",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="Undefined",Dubai TV
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/QKXDeMQ.png" group-title="Undefined",Dubai TV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Undefined",Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="Undefined",Emarat TV
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="Undefined",Noor Dubai
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Undefined",Peace TV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",SHARJA SPORTS (1920×1080),Sharjah Sports,SPORT : Sharjah Sports,SPORT | Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/FAp0RtO.png" group-title="Undefined",SHARJA TV (1920×1080),Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="Undefined",Sama Dubai
+https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Undefined",Sama Dubai
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE;US" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="Undefined",Sharjah 2,Sharjah TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sport,Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/nsxrqta.jpg" group-title="Undefined",Toheed TV
+http://51.158.73.206/hls/stream.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Undefined",Yas
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv&checkedby:hlscat.com
